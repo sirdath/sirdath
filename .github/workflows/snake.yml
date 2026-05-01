@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # Run automatically every 6 hours so the snake reflects fresh contributions
+  schedule:
+    - cron: "0 */6 * * *"
+  # Lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+  # Re-run on every push to main so README edits don't desync the snake
+  push:
+    branches:
+      - main
+
+# Required so the action can push the generated SVG to the output branch
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # 1) Generate the snake SVGs from your contribution graph
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sirdath
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8aaed1,#5683ad,#2e5c89,#073b65
+
+      # 2) Push the generated files to a dedicated 'output' branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
