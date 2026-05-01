@@ -32,7 +32,6 @@
 <!-- =========================================================
         ANIMATED DIVIDER
 ============================================================= -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake separator"/>
 
 ## 🧠 About Me
 
