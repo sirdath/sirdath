@@ -3,7 +3,7 @@
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/sirdath">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Dimitrios%20Athinaios&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Geospatial%20Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Dimitrios%20Athinaios&fontSize=58&fontColor=ffffff&fontAlignY=70&desc=Geospatial%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=80&descAlign=50" alt="header"/>
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 ============================================================= -->
 <div align="center">
   <a href="https://github.com/sirdath">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+end-to-end+AI+systems+%E2%9A%A1;Geospatial+ML+%7C+H3+%7C+XGBoost+%7C+SHAP;Agentic+pipelines+with+LangGraph+%26+RAG;Shipping+MVPs+for+real+businesses+daily;UCL+MSc+Business+Analytics+%E2%80%A2+Distinction+track" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+end-to-end+AI+systems+%E2%9A%A1;Geospatial+ML+%26+RAG+pipelines;LLM+agents+that+ship+fast;Making+AI+do+something+useful" alt="typing animation"/>
   </a>
 </div>
 
@@ -32,10 +32,7 @@
 <!-- =========================================================
         ANIMATED DIVIDER
 ============================================================= -->
-### 🐍 Watch My Contributions Eat Themselves
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sirdath/sirdath/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/>
 
 ## 🧠 About Me
 
@@ -65,8 +62,6 @@ hobbies:
 <!-- =========================================================
         DIVIDER
 ============================================================= -->
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/>
 </div>
@@ -78,11 +73,11 @@ hobbies:
     <td width="50%" valign="top">
       <h3 align="center">🗺️ London Synergy Index</h3>
       <p align="center">
-        <a href="https://github.com/sirdath">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=london-synergy-index&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="london-synergy-index card"/>
+        <a href="https://github.com/sirdath/london-synergy-index">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=london-synergy-index&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="London Synergy Index"/>
         </a>
       </p>
-      <p>Predictive site selection across <b>55,000 H3 hexagons</b> — LandScan rasters + ONS Census + OSM POIs with graph-centrality features. Spatially CV'd XGBoost reaching <b>R² = 0.92</b> via Optuna, served through a 3D Pydeck/Streamlit dashboard.</p>
+      <p>Predictive site selection across <b>55,000 H3 hexagons</b> — LandScan rasters + ONS Census + OSM POIs with graph-centrality features. Spatially CV'd XGBoost reaching <b>R² = 0.92</b> via Optuna.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
@@ -94,11 +89,11 @@ hobbies:
     <td width="50%" valign="top">
       <h3 align="center">⚡ RiskTerrain</h3>
       <p align="center">
-        <a href="https://github.com/sirdath">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=riskterrain&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="riskterrain card"/>
+        <a href="https://github.com/sirdath/riskterrain">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=riskterrain&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="RiskTerrain"/>
         </a>
       </p>
-      <p><b>6-node LangGraph</b> pipeline ingesting live USGS + NewsAPI feeds, traversing supply chains across <b>154 S&P 500 firms</b> in SurrealDB, scoring cascading risk in <b>under 8 seconds</b>. Hybrid graph-vector RAG. Built at a LangChain hackathon.</p>
+      <p><b>6-node LangGraph</b> pipeline ingesting live USGS + NewsAPI feeds, traversing supply chains across <b>154 S&P 500 firms</b> in SurrealDB, scoring cascading risk in <b>under 8 seconds</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square"/>
         <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square"/>
@@ -127,8 +122,8 @@ hobbies:
     <td width="50%" valign="top">
       <h3 align="center">🧹 DataScrub</h3>
       <p align="center">
-        <a href="https://github.com/sirdath">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=datascrub&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="datascrub card"/>
+        <a href="https://github.com/sirdath/datascrub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=datascrub&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="DataScrub"/>
         </a>
       </p>
       <p>Local-first AI cleaning agent powered by <b>Ollama</b> — datasets never leave the device. Hybrid LLM context + rule-based logic for imputation and dedup. Built for privacy-critical environments.</p>
@@ -143,7 +138,7 @@ hobbies:
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">🏠 Geospatial London Housing & Crime</h3>
-      <p>Spatio-temporal pipeline merging <b>1M+ records</b> to engineer a predictive Opportunity Index. XGBoost regressor tuned via Optuna, outperforming KNN and polynomial baselines, with SHAP-driven interpretability for investment strategy.</p>
+      <p>Spatio-temporal pipeline merging <b>1M+ records</b> to engineer a predictive Opportunity Index. XGBoost regressor tuned via Optuna, outperforming KNN and polynomial baselines, with SHAP-driven feature importance analysis.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
@@ -228,17 +223,13 @@ hobbies:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/sirdath">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sirdath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&include_all_commits=true&count_private=true" alt="github stats"/>
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdath&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=a9b1d6" alt="streak"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sirdath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sirdath&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/sirdath">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirdath&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&langs_count=10" alt="top languages"/>
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirdath&theme=tokyonight" alt="profile details"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirdath&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirdath&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <br/>
@@ -254,13 +245,15 @@ hobbies:
 
 ### 📈 Contribution Activity
 <div align="center">
-  <a href="https://github.com/sirdath">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirdath&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=70a5fd" alt="activity graph" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirdath&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=70a5fd&custom_title=Contribution%20Activity" alt="Contribution Activity Graph"/>
 </div>
 
 <br/>
 
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sirdath/sirdath/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
+</div>
 
 <!-- =========================================================
         DIVIDER
@@ -300,7 +293,7 @@ hobbies:
 **🎓 Learning**
 - Advanced graph-RAG retrieval patterns
 - Multi-modal agent orchestration
-- Spatially-aware transformer arch's
+- Spatially-aware transformer architectures
 - Production MLOps at scale
 
 </td>
@@ -337,5 +330,5 @@ hobbies:
         ANIMATED FOOTER — closing wave
 ============================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=75" alt="footer"/>
 </div>
