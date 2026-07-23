@@ -1,13 +1,13 @@
-<!--  ═══════════════════════════════════════════════════════════════════════
-       Profile README · Dimitrios Athinaios (sirdath)
-       Copy this file to: github.com/sirdath/sirdath/README.md
-       Logo + white variant live in: github.com/sirdath/dath-portfolio
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!--  ═══════════════════════════════════════════════════════════════════════════════════════════════════
+        Profile README · Dimitrios Athinaios (sirdath)
+        Copy this file to: github.com/sirdath/sirdath/README.md
+        Logo + white variant live in: github.com/sirdath/dath-portfolio
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────  HERO  ─────────
-     Borderless table: logo left cell, stylized name + typing animation
-     in the right cell. Avoids the GitHub h1/h2 bottom-border that was
-     cutting through the logo when we used a float layout. -->
+      Borderless table: logo left cell, stylized name + typing animation
+      in the right cell. Avoids the GitHub h1/h2 bottom-border that was
+      cutting through the logo when we used a float layout. -->
 
 <table align="center" width="100%">
   <tr>
@@ -31,7 +31,7 @@
       <br/>
       <a href="https://github.com/sirdath">
         <img
-          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=700&color=70A5FD&width=620&lines=Geospatial+Data+Scientist+%26+AI+Engineer;Building+end-to-end+agentic+pipelines+%E2%9A%A1;Spatial+ML+%C2%B7+H3+hexagons+%C2%B7+graph+features;Local-first+LLMs+%C2%B7+Qwen3+%C2%B7+Gemma3;Shipping+MVPs+daily+since+December"
+          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=700&color=70A5FD&width=620&lines=Geospatial+Data+Scientist+%26+AI+Engineer;Building+everything+with+LLMs;Shipping+MVPs+daily"
           alt="role"
         />
       </a>
@@ -68,8 +68,8 @@
 </div>
 
 <!-- ─────────  TABLE OF CONTENTS  ─────────
-     A 1-line TOC; rare in profile READMEs and reads as an actual UX touch
-     instead of decoration. -->
+      A 1-line TOC; rare in profile READMEs and reads as an actual UX touch
+      instead of decoration. -->
 
 <div align="center">
   <sub>
@@ -96,9 +96,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       ABOUT
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        ABOUT
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🧠 About
 
@@ -120,9 +120,9 @@ hobbies:
   - Tracking every model that ships 📡
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       FEATURED PROJECTS
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        FEATURED PROJECTS
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -133,7 +133,7 @@ hobbies:
       <a href="https://github.com/sirdath/NeuroVault">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=NeuroVault&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="NeuroVault"/>
       </a>
-      <p>Local-first AI memory for Claude. Tauri + React + Rust desktop app with hybrid retrieval (semantic + BM25 + graph). <b>96% hit@3</b>, <b>~275 tokens/answer</b>, runs entirely on-device. Outperforms RAG.</p>
+      <p>Local-first AI memory for Claude. Tauri + React + Rust desktop app with hybrid retrieval (semantic + BM25 + graph). <b>96% hit@3</b>, <b>~275 tokens/answer</b>, runs entirely on-device. MCP server included.</p>
       <p>
         <img src="https://img.shields.io/badge/Tauri_2-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -147,7 +147,7 @@ hobbies:
       <a href="https://github.com/sirdath/aegis">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=aegis&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="AEGIS"/>
       </a>
-      <p>Multi-agent maritime intelligence platform centred on the <b>Strait of Hormuz</b>. RAG + LangGraph orchestrator with custom agents, vessel tracking ingestion, and supply-chain risk reasoning across the Mediterranean.</p>
+      <p>Multi-agent maritime intelligence platform centred on the <b>Strait of Hormuz</b>. RAG + LangGraph orchestrator with custom agents, vessel tracking ingestion, and supply-chain risk reasoning.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square"/>
         <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
@@ -161,7 +161,7 @@ hobbies:
     <td width="50%" valign="top">
       <h3>🗺️ London Synergy Index</h3>
       <a href="https://github.com/sirdath/geospatial-site-selection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=geospatial-site-selection&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="London Synergy Index"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=geospatial-site-selection&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="Geospatial Site Selection"/>
       </a>
       <p>Predictive site selection across <b>55,000 H3 hexagons</b> — LandScan rasters + ONS Census + OSM POIs with graph-centrality features. Spatially CV'd XGBoost reaching <b>R² = 0.92</b>.</p>
       <p>
@@ -191,7 +191,7 @@ hobbies:
     <td width="50%" valign="top">
       <h3>🌐 Dataportfolio.co.uk</h3>
       <a href="https://github.com/sirdath/Portfolio-Dath">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=Portfolio-Dath&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="Portfolio-Dath"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=Portfolio-Dath&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="Dataportfolio"/>
       </a>
       <p align="center">
         <a href="https://dataportfolio.co.uk">
@@ -211,7 +211,7 @@ hobbies:
       <a href="https://github.com/sirdath/datascrub">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirdath&repo=datascrub&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="DataScrub"/>
       </a>
-      <p>Local-first AI cleaning agent powered by <b>Ollama</b> — datasets never leave the device. Hybrid LLM context + rule-based logic for imputation and dedup. Built for privacy-critical envs.</p>
+      <p>Local-first AI cleaning agent powered by <b>Ollama</b> — datasets never leave the device. Hybrid LLM context + rule-based logic for imputation and dedup. Built for privacy-critical environments.</p>
       <p>
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
         <img src="https://img.shields.io/badge/Local_LLMs-1A1A2E?style=flat-square"/>
@@ -223,7 +223,7 @@ hobbies:
   <tr>
     <td colspan="2" valign="top">
       <h3>🏠 <a href="https://github.com/sirdath/DS">Geospatial London Housing &amp; Crime</a></h3>
-      <p>Spatio-temporal pipeline merging <b>1M+ records</b> to engineer a predictive Opportunity Index. XGBoost regressor tuned via Optuna, outperforming KNN and polynomial baselines, with SHAP-based explainability throughout.</p>
+      <p>Spatio-temporal pipeline merging <b>1M+ records</b> to engineer a predictive Opportunity Index. XGBoost regressor tuned via Optuna, outperforming KNN and polynomial baselines, with SHAP-driven feature inspection.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
@@ -239,15 +239,15 @@ hobbies:
   <summary><b>+ See more projects (MegaGym · Data Engineering Pipeline)</b></summary>
   <br/>
   <ul>
-    <li><b>💪 MegaGym</b> — bilingual marketing site for one of Greece's largest gym chains. Vanilla JS, Leaflet finder, EL/EN switching, 7 Athens locations. <a href="https://github.com/sirdath/mega-gym-website">Repo</a> · <a href="https://megagym.dathproject.com">Live</a></li>
+    <li><b>💪 MegaGym</b> — bilingual marketing site for one of Greece's largest gym chains. Vanilla JS, Leaflet finder, EL/EN switching, 7 Athens locations. <a href="https://github.com/sirdath/MegaGym">View repo</a>.</li>
     <li><b>🛠️ Data Engineering Pipeline</b> — production-grade ELT with Databricks, PySpark, and Delta Lake on AWS.</li>
   </ul>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       3D CONTRIBUTION GRAPH
-       Generated by .github/workflows/profile-3d.yml in sirdath/sirdath
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        3D CONTRIBUTION GRAPH
+        Generated by .github/workflows/profile-3d.yml in sirdath/sirdath
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🌆 Contribution Skyline
 
@@ -267,9 +267,9 @@ hobbies:
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.
 </sub>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       TECH STACK
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        TECH STACK
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -319,16 +319,16 @@ hobbies:
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       GITHUB ANALYTICS
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        GITHUB ANALYTICS
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <!-- profile-summary-cards instead of github-readme-stats: the Vercel
-     instance of g-r-stats has been hammered by GH-API rate limits for
-     months and frequently 5xx's. profile-summary-cards uses its own
-     auth flow and has been stable. -->
+      instance of g-r-stats has been hammered by GH-API rate limits for
+      months and frequently 5xx's. profile-summary-cards uses its own
+      auth flow and has been stable. -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirdath&theme=tokyonight" alt="profile details"/>
@@ -362,7 +362,7 @@ hobbies:
 #### 📈 Activity
 <div align="center">
   <a href="https://github.com/sirdath">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirdath&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=70a5fd" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirdath&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=bf91f30a" alt="activity graph"/>
   </a>
 </div>
 
@@ -380,9 +380,9 @@ hobbies:
   </a>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       NOW
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        NOW
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Currently
 
@@ -409,9 +409,9 @@ hobbies:
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-       CONNECT
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        CONNECT
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 ## 📬 Let's Connect
 
@@ -433,16 +433,16 @@ hobbies:
 <br/>
 
 <!-- ─────────  PRINCIPLES  ─────────
-     Replaces the random-quote widget with a typing animation rotating
-     through statements that reflect actual work + values. Keeps it
-     personal instead of pulling from a generic quote bank. -->
+      Replaces the random-quote widget with a typing animation rotating
+      through statements that reflect actual work + values. Keeps it
+      personal instead of pulling from a generic quote bank. -->
 
 <div align="center">
   <table align="center">
     <tr>
       <td align="center">
         <img
-          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3400&pause=900&color=BF91F3&center=true&vCenter=true&width=700&lines=Latency+is+the+benchmark+that+matters.;If+it+doesn't+run+in+real+time%2C+it+doesn't+run.;Local-first+beats+cloud-default+when+privacy+matters.;Spatial+context+turns+dumb+features+into+smart+ones.;An+MVP+shipped+today+beats+a+perfect+one+shipped+never.;Agentic+systems+should+be+debuggable%2C+not+magic."
+          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3400&pause=900&color=BF91F3&center=true&vCenter=true&width=700&lines=Latency+is+the+benchmark+that+matters;Spatial+data+is+the+new+gold;Every+model+ships+a+story;Compound+velocity+beats+perfection"
           alt="principles"
         />
       </td>
