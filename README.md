@@ -31,13 +31,13 @@
       <br/>
       <a href="https://github.com/sirdath">
         <img
-          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=700&color=70A5FD&width=620&lines=Geospatial+Data+Scientist+%26+AI+Engineer;Building+everything+with+LLMs;Shipping+MVPs+daily"
+          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=700&color=70A5FD&width=620&lines=AI+%26+Analytics+Consultant+%40+Firstsource;I+turn+business+problems+into+working+MVPs;Agentic+LLM+pipelines+%2B+spatial+ML"
           alt="role"
         />
       </a>
       <br/>
       <sub>
-        <samp>London · UCL Business Analytics · Intelmatix · Karate 1-dan</samp>
+        <samp>London · Firstsource · UCL Business Analytics · Karate 1-dan</samp>
       </sub>
     </td>
   </tr>
@@ -74,7 +74,8 @@
 <div align="center">
   <sub>
     <a href="#-about">About</a> &nbsp;·&nbsp;
-    <a href="#-featured-projects">Projects</a> &nbsp;·&nbsp;
+    <a href="#-how-i-work">How I Work</a> &nbsp;·&nbsp;
+    <a href="#-shipped">Shipped</a> &nbsp;·&nbsp;
     <a href="#%EF%B8%8F-tech-stack">Stack</a> &nbsp;·&nbsp;
     <a href="#-github-analytics">Analytics</a> &nbsp;·&nbsp;
     <a href="#-currently">Now</a> &nbsp;·&nbsp;
@@ -104,15 +105,16 @@
 
 ```yaml
 name:        Dimitrios Athinaios
-role:        Geospatial Data Scientist & AI Engineer
+role:        AI & Analytics Consultant @ Firstsource
+focus:       MVPs — from problem framing to something people can click
 location:    London, UK
 education:
-  - MSc Business Analytics @ UCL          # Distinction track (75%)
-  - BSc Business Management (Data)        # First Class · Henley
-current:
-  placement: Intelmatix (dissertation)
-  obsession: agentic LLM pipelines + spatial ML
-  shipping:  MVPs daily since December
+  - MSc Business Analytics @ UCL
+  - BSc Business Management (Data) · First Class · Henley
+day_to_day:
+  - scoping AI use cases with stakeholders
+  - agentic LLM pipelines + retrieval systems
+  - analytics that ends in a decision, not a dashboard
 philosophy:  AI should do something useful — and do it fast.
 hobbies:
   - Karate Black Belt (1-dan) 🥋
@@ -121,10 +123,37 @@ hobbies:
 ```
 
 <!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
-        FEATURED PROJECTS
+        HOW I WORK
       ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## ⚙️ How I Work
+
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h4>1 · Frame</h4>
+      <sub>Find the decision the business is actually trying to make. Cut the rest.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>2 · Prototype</h4>
+      <sub>Working MVP fast. Real data, real latency, no slideware.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>3 · Measure</h4>
+      <sub>Hit rate, tokens, seconds, £. If it can't be measured it isn't done.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>4 · Harden</h4>
+      <sub>Evals, guardrails, deployment — the boring part that makes it survive.</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- ═════════════════════════════════════════════════════════════════════════════════════════════════════
+        SHIPPED
+      ═════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Shipped
 
 <table>
   <tr>
@@ -391,8 +420,9 @@ hobbies:
 <td width="50%" valign="top">
 
 **🏗️ Working on**
-- Dissertation placement @ **Intelmatix**
-- Autonomous agent pipelines · LangGraph
+- **AI & Analytics Consultant @ Firstsource**
+- MVPs from discovery to demo, on client timelines
+- Agentic pipelines · LangGraph + retrieval
 - Local-first AI dev env · Qwen3 + Gemma3
 - Custom NanoBanana2 image-gen architecture
 
@@ -402,7 +432,7 @@ hobbies:
 **🎓 Learning**
 - Advanced graph-RAG retrieval patterns
 - Multi-modal agent orchestration
-- Spatially-aware transformer architectures
+- Eval harnesses that survive contact with clients
 - Production MLOps at scale
 
 </td>
@@ -442,7 +472,7 @@ hobbies:
     <tr>
       <td align="center">
         <img
-          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3400&pause=900&color=BF91F3&center=true&vCenter=true&width=700&lines=Latency+is+the+benchmark+that+matters;Spatial+data+is+the+new+gold;Every+model+ships+a+story;Compound+velocity+beats+perfection"
+          src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=3400&pause=900&color=BF91F3&center=true&vCenter=true&width=700&lines=Ship+the+MVP%2C+then+earn+the+roadmap;A+demo+beats+a+deck%2C+every+time;Latency+is+the+benchmark+that+matters;Compound+velocity+beats+perfection"
           alt="principles"
         />
       </td>
